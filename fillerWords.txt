@@ -1,0 +1,40 @@
+"FILTER SOUNDS"
+um
+uh
+er
+ah
+hmm
+mhm
+uh huh
+
+"FILTER WORDS"
+basically
+actually
+literally
+like?
+okay?
+right?
+well?
+etc
+so
+seriously
+hopefully
+probably
+
+
+
+
+"FILTER PHRASES"
+you know
+I think that
+what i'm trying to say is
+you see
+i mean
+you know what i mean
+at the end of the day
+believe me
+i guess
+i suppose
+or something
+stuff like that
+kind of
